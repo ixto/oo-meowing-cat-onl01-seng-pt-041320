@@ -9,7 +9,7 @@ class Cat
 
 end
 
-
+shadow = Cat.new
 
 # class Person
 #   attr_writer :name
